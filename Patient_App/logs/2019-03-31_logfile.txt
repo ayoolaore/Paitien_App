@@ -1,0 +1,21 @@
+2019-03-31 10:18:35.9987 ERROR Something went wrong inside GetAllPatients action: The method or operation is not implemented.
+2019-03-31 10:20:03.3468 ERROR Something went wrong inside GetAllPatients action: The method or operation is not implemented.
+2019-03-31 10:20:49.2336 ERROR Something went wrong inside GetAllPatients action: The method or operation is not implemented.
+2019-03-31 10:34:05.3152 ERROR Something went wrong inside GetAllPatients action: The method or operation is not implemented.
+2019-03-31 10:57:19.9906 ERROR Something went wrong inside GetAllPatients action: The method or operation is not implemented.
+2019-03-31 11:13:14.4707 ERROR Something went wrong inside GetAllPatients action: The method or operation is not implemented.
+2019-03-31 11:39:32.6175 ERROR Something went wrong inside GetAllPatients action: The method or operation is not implemented.
+2019-03-31 12:39:22.1275 ERROR Something went wrong inside GetAllPatients action: The method or operation is not implemented.
+2019-03-31 13:07:09.9922 ERROR Something went wrong inside GetAllPatients action: The method or operation is not implemented.
+2019-03-31 13:07:51.9464 ERROR Something went wrong inside GetAllPatients action: The method or operation is not implemented.
+2019-03-31 13:08:24.5039 ERROR Something went wrong inside GetAllPatients action: The method or operation is not implemented.
+2019-03-31 13:11:28.6455 ERROR Something went wrong inside GetAllPatients action: The method or operation is not implemented.
+2019-03-31 13:51:14.9523 ERROR Something went wrong inside GetAllPatients action: The method or operation is not implemented.
+2019-03-31 13:51:40.7799 ERROR Something went wrong inside GetAllPatients action: The method or operation is not implemented.
+2019-03-31 13:54:31.4221 ERROR Something went wrong inside GetAllPatients action: The method or operation is not implemented.
+2019-03-31 13:55:59.2506 ERROR Something went wrong inside GetAllPatients action: The method or operation is not implemented.
+2019-03-31 16:29:25.5257 ERROR Something went wrong inside GetAllPatients action: The method or operation is not implemented.
+2019-03-31 16:35:22.6857 ERROR Something went wrong inside GetAllPatients action: The method or operation is not implemented.
+2019-03-31 18:10:35.2174 ERROR Something went wrong inside GetAllPatients action: The method or operation is not implemented.
+2019-03-31 18:38:09.7892 ERROR Something went wrong inside GetAllPatients action: The method or operation is not implemented.
+2019-03-31 19:20:53.6133 ERROR Something went wrong inside GetAllPatients action: Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx).
